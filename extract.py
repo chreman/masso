@@ -73,6 +73,7 @@ class Extractor(object):
         self.raws = os.listdir(self.input)
         self.classification = classification
         self.log = logger
+        setup_folders(output)
         if stylesheets_path:
             self.stylesheets_path = stylesheets_path
             self.stylesheets = self.load_stylesheets()

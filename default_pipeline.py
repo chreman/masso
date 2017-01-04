@@ -1,7 +1,8 @@
 from crawl import *
 from extract import *
+from analyse import *
 import pathlib
-
+import os
 
 
 
@@ -40,6 +41,25 @@ def main(args):
     extractor.convert_files()
 
     ### analysis section
+
+    inputfolder = 'corpus'
+    output = 'results'
+    cached_df = None
+
+    if not os.path.exists(output):
+        os.makedirs(output)
+    corpus = MassoCorpus(inputfolder, output, cached_df)
+    if not cached_df:
+        corpus.preprocess()
+    B, labels = corpus.create_graph()
+    subgraphs = list(nx.components.connected_component_subgraphs(B, False))
+    subgraphs = sorted(subgraphs, key = len, reverse=True)
+    for i, sg in enumerate(subgraphs[:1]):
+        plotGraph(sg, (24, 24), os.path.join(output, str(i)+".svg"))
+    for i, sg in enumerate(subgraphs[1:10]):
+        plotGraph(sg, (8, 8), os.path.join(output, str(i+1)+".svg"))
+    nx.write_graphml(B, os.path.join(output, "test.graphml"))
+    corpus.cache_df("test")
 
 
 if __name__ == '__main__':
