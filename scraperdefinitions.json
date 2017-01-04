@@ -1,0 +1,12 @@
+{
+  "cordis.europa.eu":{
+    "pdf":
+      {"selector":"//a[@class='printToPdf']/@href",
+        "attribute":"href"},
+    "xml":
+      {"selector":"//a[@class='printToXml']/@href",
+        "attribute":"href"}
+    },
+  "ec.europa.eu":{
+    }
+}
