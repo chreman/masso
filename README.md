@@ -5,14 +5,19 @@ On the basis of the exploration, the hypotheses will be generated.
 
 ## Usage
 
-### Setup
-* Activate virtualenv
-* `python -m spacy.en.download all` to install natural language processing models
+### Setup dependencies
+
+* works best with [Anaconda](https://www.continuum.io/downloads) for Python 3.5:
+* First install of Python virtual environment: `conda env create -f masso.yml`
+* Activate virtualenv: `source activate masso`
+* Install natural language processing models `python -m spacy.en.download all`
 
 ### Default pipeline
 
 Run a standardized pipeline that collects documents, extracts content and does preliminary preprocessing
 ```python
+python3 default_pipeline.py
+```
 
 
 #### Custom crawler usage
@@ -33,7 +38,7 @@ python3 extract.py --input calls --convert html --stylesheets_path stylesheets.j
 
 ## Analyse and explore with jupyter notebook
 
-* Start the interactive notebook from shell with `jupyter notebook`  - assumes crawling and preprocessing has been done
+* Start the interactive notebook from shell with `jupyter notebook` - assumes crawling and preprocessing has been done
 
 ## Requirements
 
