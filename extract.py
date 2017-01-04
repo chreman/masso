@@ -118,7 +118,7 @@ class Extractor(object):
             try:
                 elems = tree.xpath(value.get("selector"))
             except Exception:
-                self.log.exception("Could not extract element %s, selector %s" %(element, value.get("selector")))
+                self.log.error("Could not extract element %s, selector %s" %(element, value.get("selector")))
                 continue
             if value.get("attribute") == "text":
                 text = [" ".join(list(elem.itertext())) for elem in elems]
@@ -142,7 +142,7 @@ class Extractor(object):
         try:
             results["fulltext"] = textract.process(pdffile, method='pdfminer', encoding='utf-8').decode('utf-8')
         except Exception:
-            self.log.exception("Could not process %s" %docname)
+            self.log.error("Could not process %s" %docname)
             return
         results["title"] = docname
         results["local_source"] = pdffile
@@ -162,13 +162,16 @@ class Extractor(object):
     def pdf2json(self):
         for raw in self.raws:
             results = self.extractFromPDF(os.path.join(self.input, raw))
-            with open(os.path.join(self.output, results.get("title")+".json"), "w") as outfile:
-                json.dump(results, outfile)
-            self.dump_to_corpus(results)
+            try:
+                with open(os.path.join(self.output, results.get("title")+".json"), "w") as outfile:
+                    json.dump(results, outfile)
+                self.dump_to_corpus(results)
+            except Exception:
+                self.log.error("Could not process %s" %raw)
 
     def xml2json(self):
         for raw in self.raws:
-            tree = etree.parse(raw)
+            tree = etree.parse(os.path.join(self.input, raw))
             results = self.extractFromXML(tree)
             results["local_source"] = raw
             with open(os.path.join(self.output, str(results.get("identifier")[0])+".json"), "w") as outfile:
@@ -177,7 +180,7 @@ class Extractor(object):
 
     def html2json(self):
         for raw in self.raws:
-            with open(raw, "r") as infile:
+            with open(os.path.join(self.input,raw), "r") as infile:
                 contents = infile.read()
             tree = html.fromstring(contents)
             results = self.extractFromHTML(tree)
@@ -187,7 +190,7 @@ class Extractor(object):
                     json.dump(results, outfile)
                 self.dump_to_corpus(results)
             except Exception:
-                self.log.exception("Could not dump %s" %results.get('title'))
+                self.log.error("Could not dump %s" %results.get('title'))
 
 def main(args):
     extractor = Extractor(args.input, args.output, args.convert, args.stylesheets_path, args.classification)

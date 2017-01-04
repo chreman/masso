@@ -109,7 +109,7 @@ class MassoCorpus(object):
         self.df['links'] = self.df['links'].map(lambda x: [l for l in x if "@" not in l]) # filter out email addresses
         self.df['cites'] = self.df['links'].map(lambda x: [clean_link(l, self.url2title) for l in x])
         self.df['targets'] = self.df[['cites', 'title_mentions']].apply(lambda x: list(chain.from_iterable(x)), axis=1)
-        self.df['target_links'] = self.df['targets'].map(lambda x: [title2url.get(t) for t in x if title2url.get(t)])
+        self.df['target_links'] = self.df['targets'].map(lambda x: [self.title2url.get(t) for t in x if self.title2url.get(t)])
 
     def cache_df(self, filename):
         self.df.to_pickle(os.path.join(self.output, "%s.pkl" %filename))

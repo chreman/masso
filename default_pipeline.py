@@ -20,11 +20,17 @@ def main(args):
     crawler = Crawler('pdfs.txt', 'pdfs', scrapers, False, False, False)
     crawler.get_urls()
 
+    print("Finished crawling pdfs.")
+
     crawler = Crawler('press.txt', 'press', scrapers, True, False, False)
     crawler.get_urls()
 
+    print("Finished crawling press releases.")
+
     crawler = Crawler('calls.txt', 'calls', scrapers, False, False, True)
     crawler.get_urls()
+
+    print("Finished crawling calls.")
 
     ### extraction section
 
@@ -34,15 +40,21 @@ def main(args):
     extractor = Extractor('pdfs', output, 'pdf', stylesheets_path, 'pdf')
     extractor.convert_files()
 
+    print("Finished extracting from pdfs.")
+
     extractor = Extractor('press', output, 'xml', stylesheets_path, 'press')
     extractor.convert_files()
+
+    print("Finished extracting from press releases.")
 
     extractor = Extractor('calls', output, 'html', stylesheets_path, 'calls')
     extractor.convert_files()
 
+    print("Finished extracting from calls.")
+
     ### analysis section
 
-    inputfolder = 'corpus'
+    inputfolder = 'corpus/corpus.json'
     output = 'results'
     cached_df = None
 
@@ -51,6 +63,7 @@ def main(args):
     corpus = MassoCorpus(inputfolder, output, cached_df)
     if not cached_df:
         corpus.preprocess()
+    print("Creating graph.")
     B, labels = corpus.create_graph()
     subgraphs = list(nx.components.connected_component_subgraphs(B, False))
     subgraphs = sorted(subgraphs, key = len, reverse=True)
@@ -58,8 +71,10 @@ def main(args):
         plotGraph(sg, (24, 24), os.path.join(output, str(i)+".svg"))
     for i, sg in enumerate(subgraphs[1:10]):
         plotGraph(sg, (8, 8), os.path.join(output, str(i+1)+".svg"))
+    print("Network graphs exported.")
     nx.write_graphml(B, os.path.join(output, "test.graphml"))
     corpus.cache_df("test")
+    print("DataFrame exported.")
 
 
 if __name__ == '__main__':
