@@ -79,8 +79,11 @@ class Crawler(object):
         return url_mapper
 
     def get_cached(self):
-        with open("visited_links.txt", "r") as infile:
-            visited = [l.strip() for l in infile.readlines()]
+        try:
+            with open("visited_links.txt", "r") as infile:
+                visited = [l.strip() for l in infile.readlines()]
+        except:
+            visited = []
         return set(visited)
 
     def get_urls(self):
