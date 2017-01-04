@@ -19,7 +19,7 @@ def main(args):
     crawler = Crawler('pdfs.txt', 'pdfs', scrapers, False, False, False)
     crawler.get_urls()
 
-    crawler = Crawler('news.txt', 'press', scrapers, True, False, False)
+    crawler = Crawler('press.txt', 'press', scrapers, True, False, False)
     crawler.get_urls()
 
     crawler = Crawler('calls.txt', 'calls', scrapers, False, False, True)

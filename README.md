@@ -5,11 +5,17 @@ On the basis of the exploration, the hypotheses will be generated.
 
 ## Usage
 
+### Setup
 * Activate virtualenv
 * `python -m spacy.en.download all` to install natural language processing models
-* `jupyter notebook` to run interactive notebook for exploration - assumes crawling and preprocessing has been done
 
-#### Crawler
+### Default pipeline
+
+Run a standardized pipeline that collects documents, extracts content and does preliminary preprocessing
+```python
+
+
+#### Custom crawler usage
 
 ```python
 python3 crawl.py --urls pdfs.txt --output pdfs --scrapers scraperdefinitions.json
@@ -17,7 +23,7 @@ python3 crawl.py --urls news.txt --output press --scrapers scraperdefinitions.js
 python3 crawl.py --urls calls.txt --output calls --scrapers scraperdefinitions.json --html
 ```
 
-#### Scraper
+#### Custom scraper usage
 
 ```python
 python3 extract.py --input pdfs --convert pdf --output corpus
@@ -25,12 +31,9 @@ python3 extract.py --input press --convert xml --stylesheets_path stylesheets.js
 python3 extract.py --input calls --convert html --stylesheets_path stylesheets.json --classification calls --output corpus
 ```
 
-#### Before analysis:
+## Analyse and explore with jupyter notebook
 
-* put all files in corpus folder together:
-```bash
-for f in *.json; do (cat "${f}"; echo) >> corpus.json; done
-```
+* Start the interactive notebook from shell with `jupyter notebook`  - assumes crawling and preprocessing has been done
 
 ## Requirements
 
