@@ -1,0 +1,81 @@
+name: spark
+dependencies:
+- anaconda=custom=py34_0
+- openssl=1.0.2h=1
+- pip=8.1.2=py34_0
+- python=3.4.5=0
+- readline=6.2=2
+- setuptools=23.0.0=py34_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py34_0
+- xz=5.2.2=0
+- zlib=1.2.8=3
+- pip:
+  - backports-abc==0.4
+  - bokeh==0.12.1
+  - cloudpickle==0.2.1
+  - cycler==0.10.0
+  - cymem==1.31.2
+  - decorator==4.0.10
+  - ecdsa==0.13
+  - entrypoints==0.2.2
+  - fabric==1.11.1
+  - invoke==0.12.2
+  - ipykernel==4.3.1
+  - ipython==5.0.0
+  - ipython-genutils==0.1.0
+  - ipywidgets==5.2.2
+  - jinja2==2.8
+  - jsonschema==2.5.1
+  - jupyter==1.0.0
+  - jupyter-client==4.3.0
+  - jupyter-console==5.0.0
+  - jupyter-core==4.1.0
+  - lxml==3.6.4
+  - markupsafe==0.23
+  - matplotlib==1.5.1
+  - mistune==0.7.3
+  - murmurhash==0.26.4
+  - nbconvert==4.2.0
+  - nbformat==4.0.1
+  - nltk==3.2.1
+  - notebook==4.2.2
+  - numpy==1.11.1
+  - pandas==0.18.1
+  - paramiko==1.17.0
+  - pathlib==1.0.1
+  - pexpect==4.2.0
+  - pickleshare==0.7.3
+  - plac==0.9.6
+  - preshed==0.46.4
+  - prettytable==0.7.2
+  - prompt-toolkit==1.0.5
+  - ptyprocess==0.5.1
+  - py2neo==3.1.2
+  - py4j==0.10.3
+  - pycrypto==2.6.1
+  - pygments==2.1.3
+  - pyparsing==2.1.5
+  - python-dateutil==2.5.3
+  - pytz==2016.6.1
+  - pyyaml==3.11
+  - pyzmq==15.3.0
+  - qtconsole==4.2.1
+  - requests==2.10.0
+  - semver==2.7.1
+  - simplegeneric==0.8.1
+  - simplejson==3.8.2
+  - six==1.10.0
+  - spacy==1.2.0
+  - sputnik==0.9.3
+  - streamparse==2.1.4
+  - terminado==0.6
+  - thinc==5.0.8
+  - tornado==4.4.1
+  - traitlets==4.2.2
+  - ujson==1.35
+  - wcwidth==0.1.7
+  - widgetsnbextension==1.2.6
+prefix: /home/chris/anaconda3/envs/spark
+
