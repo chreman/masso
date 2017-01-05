@@ -1,0 +1,1832 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="bipartite" attr.type="long" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="tools">
+      <data key="d0">1</data>
+    </node>
+    <node id="Europe's technology transfer performance better than previously believed?">
+      <data key="d0">0</data>
+    </node>
+    <node id="[2]">
+      <data key="d0">1</data>
+    </node>
+    <node id="Legal basis: Horizon 2020 Specific Programme">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.fdct.gov">
+      <data key="d0">1</data>
+    </node>
+    <node id="Status">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020-infoday-eosc-call-topics_en">
+      <data key="d0">0</data>
+    </node>
+    <node id=" Participant Portal">
+      <data key="d0">1</data>
+    </node>
+    <node id="2013_arctic_research_plan">
+      <data key="d0">0</data>
+    </node>
+    <node id="dpo">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020-hi">
+      <data key="d0">1</data>
+    </node>
+    <node id="National Contact Points (NCP)">
+      <data key="d0">1</data>
+    </node>
+    <node id="default">
+      <data key="d0">1</data>
+    </node>
+    <node id="3rd">
+      <data key="d0">1</data>
+    </node>
+    <node id="eumexinnova1">
+      <data key="d0">1</data>
+    </node>
+    <node id="Specific evaluation form">
+      <data key="d0">0</data>
+    </node>
+    <node id="country">
+      <data key="d0">1</data>
+    </node>
+    <node id="link">
+      <data key="d0">1</data>
+    </node>
+    <node id="Make a date with data: the third EUDAT conference">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.medspring">
+      <data key="d0">1</data>
+    </node>
+    <node id="action?query_source">
+      <data key="d0">1</data>
+    </node>
+    <node id="Information Retrieval Symposium, Vienna">
+      <data key="d0">0</data>
+    </node>
+    <node id="ncp.tsagi">
+      <data key="d0">1</data>
+    </node>
+    <node id="login">
+      <data key="d0">1</data>
+    </node>
+    <node id="model grant agreement">
+      <data key="d0">1</data>
+    </node>
+    <node id="“Science, Innovation and Society: achieving Responsible Research and Innovation”">
+      <data key="d0">0</data>
+    </node>
+    <node id="part b">
+      <data key="d0">1</data>
+    </node>
+    <node id="national_contact_points">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.ands.org">
+      <data key="d0">1</data>
+    </node>
+    <node id="Guide to the submission and evaluation process">
+      <data key="d0">0</data>
+    </node>
+    <node id="faq_aq_101">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.hse">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAIN-REDS Conference: 'Open Science at the Global Scale: Sharing e-Infrastructures, Sharing Knowledge, Sharing Progress'">
+      <data key="d0">0</data>
+    </node>
+    <node id="infradev-04-2016">
+      <data key="d0">1</data>
+    </node>
+    <node id="treatiesGeneralData">
+      <data key="d0">1</data>
+    </node>
+    <node id="data">
+      <data key="d0">1</data>
+    </node>
+    <node id="Open access must be granted to all scientific publications ">
+      <data key="d0">1</data>
+    </node>
+    <node id="ostp">
+      <data key="d0">1</data>
+    </node>
+    <node id="index_en">
+      <data key="d0">1</data>
+    </node>
+    <node id="science-">
+      <data key="d0">1</data>
+    </node>
+    <node id="global_ethics_science_technology">
+      <data key="d0">1</data>
+    </node>
+    <node id="14th Issue of MaCuMBA Project News Now Available">
+      <data key="d0">0</data>
+    </node>
+    <node id="reportcard">
+      <data key="d0">1</data>
+    </node>
+    <node id="canada">
+      <data key="d0">1</data>
+    </node>
+    <node id="ECsafeSEAFOOD Final Event: Seafood Safety – New Findings &amp; Innovation Challenges">
+      <data key="d0">0</data>
+    </node>
+    <node id="Horizon 2020 budget flexibility">
+      <data key="d0">0</data>
+    </node>
+    <node id="oceans">
+      <data key="d0">1</data>
+    </node>
+    <node id="epigenomes">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.globalchange">
+      <data key="d0">1</data>
+    </node>
+    <node id="Open Science Training Workshop">
+      <data key="d0">0</data>
+    </node>
+    <node id="Final Issue of MaCuMBA Project News Now Available">
+      <data key="d0">0</data>
+    </node>
+    <node id="[1]">
+      <data key="d0">1</data>
+    </node>
+    <node id="cgi">
+      <data key="d0">1</data>
+    </node>
+    <node id="national_offshore_wind_strategy">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.dtu">
+      <data key="d0">1</data>
+    </node>
+    <node id="conference">
+      <data key="d0">1</data>
+    </node>
+    <node id="index.en">
+      <data key="d0">1</data>
+    </node>
+    <node id="mares">
+      <data key="d0">1</data>
+    </node>
+    <node id="TOPIC : Data and Distributed Computing e-infrastructures for Open Science ">
+      <data key="d0">0</data>
+    </node>
+    <node id="RRITools">
+      <data key="d0">1</data>
+    </node>
+    <node id="mp2008">
+      <data key="d0">1</data>
+    </node>
+    <node id="specific provisions and funding rates">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020-eu">
+      <data key="d0">1</data>
+    </node>
+    <node id="csf">
+      <data key="d0">1</data>
+    </node>
+    <node id="apc.ucc">
+      <data key="d0">1</data>
+    </node>
+    <node id="ELOISE 4th open science meeting">
+      <data key="d0">0</data>
+    </node>
+    <node id="c of the general annexes">
+      <data key="d0">1</data>
+    </node>
+    <node id="EGEE becomes world largest scientific grid">
+      <data key="d0">0</data>
+    </node>
+    <node id="MaCuMBAProject">
+      <data key="d0">1</data>
+    </node>
+    <node id="helpdesk">
+      <data key="d0">1</data>
+    </node>
+    <node id="bio">
+      <data key="d0">1</data>
+    </node>
+    <node id="DocsNPublicsKr_BoardList">
+      <data key="d0">1</data>
+    </node>
+    <node id="fp7-sme">
+      <data key="d0">1</data>
+    </node>
+    <node id="science">
+      <data key="d0">1</data>
+    </node>
+    <node id="Science and Society Portal">
+      <data key="d0">1</data>
+    </node>
+    <node id="index">
+      <data key="d0">1</data>
+    </node>
+    <node id="45445">
+      <data key="d0">1</data>
+    </node>
+    <node id="MaCuMBA: Key events helping to map the marine microorganism seascape &#10;">
+      <data key="d0">0</data>
+    </node>
+    <node id="annex_roadmaps_sep-2014">
+      <data key="d0">0</data>
+    </node>
+    <node id="Infoday Programme">
+      <data key="d0">0</data>
+    </node>
+    <node id="Creating a successful European Digital Single Market requires open science, open innovation, open scholarship and open infrastructures. Press Release">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.re3data">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020 work programme 2016-17: dissemination, exploitation and evaluation">
+      <data key="d0">1</data>
+    </node>
+    <node id="user-driven e-infrastructure innovation">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.innovationpolicyplatform">
+      <data key="d0">1</data>
+    </node>
+    <node id="basin">
+      <data key="d0">1</data>
+    </node>
+    <node id="searc">
+      <data key="d0">1</data>
+    </node>
+    <node id="specific evaluation form">
+      <data key="d0">1</data>
+    </node>
+    <node id="BONUS research opportunities in the Baltic">
+      <data key="d0">0</data>
+    </node>
+    <node id="Cloudscape Brazil 2015. How business and research are innovating in the cloud&#10;">
+      <data key="d0">0</data>
+    </node>
+    <node id="Specific proposal template">
+      <data key="d0">0</data>
+    </node>
+    <node id="The European Open Science Cloud for Research">
+      <data key="d0">0</data>
+    </node>
+    <node id="Innovative approach to release and disseminate research results and measure their impact">
+      <data key="d0">0</data>
+    </node>
+    <node id="other">
+      <data key="d0">1</data>
+    </node>
+    <node id="tradoc_151003">
+      <data key="d0">1</data>
+    </node>
+    <node id="501100007601">
+      <data key="d0">1</data>
+    </node>
+    <node id="era">
+      <data key="d0">1</data>
+    </node>
+    <node id="Guiding EU researchers along the 'last mile' to Open Digital Science">
+      <data key="d0">0</data>
+    </node>
+    <node id="h2020-prizes">
+      <data key="d0">1</data>
+    </node>
+    <node id="EUinRussia">
+      <data key="d0">1</data>
+    </node>
+    <node id="927">
+      <data key="d0">1</data>
+    </node>
+    <node id="index_pt">
+      <data key="d0">1</data>
+    </node>
+    <node id="SiS">
+      <data key="d0">1</data>
+    </node>
+    <node id="poster">
+      <data key="d0">1</data>
+    </node>
+    <node id="Legal basis: Horizon 2020 Rules for Participation">
+      <data key="d0">0</data>
+    </node>
+    <node id="news">
+      <data key="d0">1</data>
+    </node>
+    <node id="list">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.rscf">
+      <data key="d0">1</data>
+    </node>
+    <node id="aon">
+      <data key="d0">1</data>
+    </node>
+    <node id="eye">
+      <data key="d0">1</data>
+    </node>
+    <node id="japan">
+      <data key="d0">1</data>
+    </node>
+    <node id="the european open science cloud for research">
+      <data key="d0">1</data>
+    </node>
+    <node id="guide">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.fp7-energy">
+      <data key="d0">1</data>
+    </node>
+    <node id="guide to the submission and evaluation process">
+      <data key="d0">1</data>
+    </node>
+    <node id="mariecurieactions">
+      <data key="d0">1</data>
+    </node>
+    <node id="taiwan">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.pcs.usp">
+      <data key="d0">1</data>
+    </node>
+    <node id="Republic of Korea">
+      <data key="d0">0</data>
+    </node>
+    <node id="c of the general annexes of the general work programme">
+      <data key="d0">1</data>
+    </node>
+    <node id="horizon 2020 budget flexibility">
+      <data key="d0">1</data>
+    </node>
+    <node id="republic of korea">
+      <data key="d0">1</data>
+    </node>
+    <node id="http://ec.europa.eu/commission/2014-2019/president_en">
+      <data key="d0">1</data>
+    </node>
+    <node id="EGI">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.openaire">
+      <data key="d0">1</data>
+    </node>
+    <node id="circ1370">
+      <data key="d0">1</data>
+    </node>
+    <node id="0ad7644c390503e">
+      <data key="d0">1</data>
+    </node>
+    <node id="Participant Portal FAQ">
+      <data key="d0">1</data>
+    </node>
+    <node id="ncp">
+      <data key="d0">1</data>
+    </node>
+    <node id="financial support to third parties">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.eurofleets">
+      <data key="d0">1</data>
+    </node>
+    <node id="EOSC Infoday - European Open Science Cloud - Overview">
+      <data key="d0">0</data>
+    </node>
+    <node id="part H of the General Annexes of the General Work Programme">
+      <data key="d0">0</data>
+    </node>
+    <node id="TOPIC : Training on Open Science in the European Research Area ">
+      <data key="d0">0</data>
+    </node>
+    <node id="TOPIC : European Open Science Cloud for Research ">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.haneurope">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020-funding">
+      <data key="d0">1</data>
+    </node>
+    <node id="H2020 Online Manual">
+      <data key="d0">1</data>
+    </node>
+    <node id="Brazil">
+      <data key="d0">0</data>
+    </node>
+    <node id="Weaving the Internet of Data: High level European policy meeting on funding research data to support open innovation">
+      <data key="d0">0</data>
+    </node>
+    <node id="Science with and for Society Brokerage Event">
+      <data key="d0">0</data>
+    </node>
+    <node id="oapen">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020 work programme 2016-17: research infrastructures (including e-infrastructures)">
+      <data key="d0">1</data>
+    </node>
+    <node id="'Mappa Mundi' of Grid computing now available ">
+      <data key="d0">0</data>
+    </node>
+    <node id="A European map of knowledge production and co-creation in support of research and innovation for societal challenges">
+      <data key="d0">0</data>
+    </node>
+    <node id="infoday programme">
+      <data key="d0">1</data>
+    </node>
+    <node id="randd">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.geant">
+      <data key="d0">1</data>
+    </node>
+    <node id="digital">
+      <data key="d0">1</data>
+    </node>
+    <node id="1172">
+      <data key="d0">1</data>
+    </node>
+    <node id="part a of the general annexes of the general work programme">
+      <data key="d0">1</data>
+    </node>
+    <node id="India">
+      <data key="d0">0</data>
+    </node>
+    <node id="information">
+      <data key="d0">1</data>
+    </node>
+    <node id="evaluation">
+      <data key="d0">1</data>
+    </node>
+    <node id="ELOISE meeting features land-ocean interactions">
+      <data key="d0">0</data>
+    </node>
+    <node id="Access_to_Research_and_Technical_Information_in_Denmark">
+      <data key="d0">1</data>
+    </node>
+    <node id="Classified information">
+      <data key="d0">0</data>
+    </node>
+    <node id="h2020-mga">
+      <data key="d0">1</data>
+    </node>
+    <node id="Russia">
+      <data key="d0">0</data>
+    </node>
+    <node id="TOPIC : Innovative approach to release and disseminate research results and measure their impact ">
+      <data key="d0">0</data>
+    </node>
+    <node id="gendered">
+      <data key="d0">1</data>
+    </node>
+    <node id="HNSciCloud Pre-Commercial Procurement Open Market Consultation event">
+      <data key="d0">0</data>
+    </node>
+    <node id="Specific provisions and funding rates">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.gacd">
+      <data key="d0">1</data>
+    </node>
+    <node id="81103-RAE_17_FINAL_web">
+      <data key="d0">1</data>
+    </node>
+    <node id="rd">
+      <data key="d0">1</data>
+    </node>
+    <node id="China">
+      <data key="d0">0</data>
+    </node>
+    <node id="part B">
+      <data key="d0">0</data>
+    </node>
+    <node id="Biodiversity loss continues unchecked, 2010 UN targets will be missed, experts say">
+      <data key="d0">0</data>
+    </node>
+    <node id="2014">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.earthsystemgrid">
+      <data key="d0">1</data>
+    </node>
+    <node id="1st International Conference on the Marine Microbiome - Discovery &amp; Innovation for Science and Industry ">
+      <data key="d0">0</data>
+    </node>
+    <node id="H2020 Work Programme 2016-17: General Annexes">
+      <data key="d0">0</data>
+    </node>
+    <node id="part H of the General Annexes">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.arimnet">
+      <data key="d0">1</data>
+    </node>
+    <node id="nebula">
+      <data key="d0">1</data>
+    </node>
+    <node id="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)">
+      <data key="d0">0</data>
+    </node>
+    <node id="501100000781">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.motie.go">
+      <data key="d0">1</data>
+    </node>
+    <node id="Project%20description%20II">
+      <data key="d0">1</data>
+    </node>
+    <node id="invasive">
+      <data key="d0">1</data>
+    </node>
+    <node id="europepmc">
+      <data key="d0">1</data>
+    </node>
+    <node id="women">
+      <data key="d0">1</data>
+    </node>
+    <node id="arena">
+      <data key="d0">1</data>
+    </node>
+    <node id="Vision2050-FullReport_Final">
+      <data key="d0">1</data>
+    </node>
+    <node id="Taiwan">
+      <data key="d0">0</data>
+    </node>
+    <node id="ocean.data">
+      <data key="d0">1</data>
+    </node>
+    <node id="europeanCharter">
+      <data key="d0">1</data>
+    </node>
+    <node id="macumba">
+      <data key="d0">1</data>
+    </node>
+    <node id="d4science">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.ipcc">
+      <data key="d0">1</data>
+    </node>
+    <node id="announce_eujoint_03_GeneralInfo">
+      <data key="d0">1</data>
+    </node>
+    <node id="lvl.i3m.upv">
+      <data key="d0">1</data>
+    </node>
+    <node id="Making the most out of biological observations data">
+      <data key="d0">0</data>
+    </node>
+    <node id="t20151216_122975">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.icarp">
+      <data key="d0">1</data>
+    </node>
+    <node id="EOSC Infoday - Support to the European Open Science Cloud through upcoming calls under the European Research Infrastructures (including e-Infrastructures) part of the Horizon 2020 Work Programme 2016-2017 (Augusto BURGUEÑO ARJONA, Head of Unit e-Infrastructure)">
+      <data key="d0">1</data>
+    </node>
+    <node id="Scientific Information in the Digital Age: Text and Data Mining (TDM)">
+      <data key="d0">0</data>
+    </node>
+    <node id="annotated grant agreement">
+      <data key="d0">1</data>
+    </node>
+    <node id="krResSupPro">
+      <data key="d0">1</data>
+    </node>
+    <node id="partner-search">
+      <data key="d0">1</data>
+    </node>
+    <node id="rio.2">
+      <data key="d0">1</data>
+    </node>
+    <node id="einfra-2-2014">
+      <data key="d0">1</data>
+    </node>
+    <node id="Innovative Training Networks">
+      <data key="d0">0</data>
+    </node>
+    <node id="el">
+      <data key="d0">1</data>
+    </node>
+    <node id="japan.gr">
+      <data key="d0">1</data>
+    </node>
+    <node id="H2020 Work Programme 2016-17: Science with and for society">
+      <data key="d0">0</data>
+    </node>
+    <node id="Microbiome Research: A Key to Improving Health, Drive Food Production, and Boost EU innovation">
+      <data key="d0">0</data>
+    </node>
+    <node id="inforeuro_en">
+      <data key="d0">1</data>
+    </node>
+    <node id="brazil">
+      <data key="d0">1</data>
+    </node>
+    <node id="africanradioastronomy">
+      <data key="d0">1</data>
+    </node>
+    <node id="loader">
+      <data key="d0">1</data>
+    </node>
+    <node id="unit">
+      <data key="d0">1</data>
+    </node>
+    <node id="enow">
+      <data key="d0">1</data>
+    </node>
+    <node id="Annotated Grant Agreement">
+      <data key="d0">1</data>
+    </node>
+    <node id="dbo">
+      <data key="d0">1</data>
+    </node>
+    <node id="part A of the General Annexes of the General Work Programme">
+      <data key="d0">0</data>
+    </node>
+    <node id="tNuvYc">
+      <data key="d0">1</data>
+    </node>
+    <node id="Partner Search Services">
+      <data key="d0">1</data>
+    </node>
+    <node id="implementing">
+      <data key="d0">1</data>
+    </node>
+    <node id="lfv">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.spbrc.nw">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Impact of the General Data Protection Regulation on the future collaborative science in Europe">
+      <data key="d0">0</data>
+    </node>
+    <node id="GridTalk spreads the word on European grid computing">
+      <data key="d0">0</data>
+    </node>
+    <node id="9789264067233-en">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.dcc.ac">
+      <data key="d0">1</data>
+    </node>
+    <node id="Second International Conference on Research Infrastructures, Athens, Greece">
+      <data key="d0">0</data>
+    </node>
+    <node id="Second announcement for ELOISE meeting">
+      <data key="d0">0</data>
+    </node>
+    <node id="australia">
+      <data key="d0">1</data>
+    </node>
+    <node id="support to policies and international cooperation for e-infrastructures">
+      <data key="d0">1</data>
+    </node>
+    <node id="classified information">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.foresterra">
+      <data key="d0">1</data>
+    </node>
+    <node id="res">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.rfbr">
+      <data key="d0">1</data>
+    </node>
+    <node id="swafs-07-2016">
+      <data key="d0">1</data>
+    </node>
+    <node id="Specific evaluation form">
+      <data key="d0">0</data>
+    </node>
+    <node id="ius-2014_en">
+      <data key="d0">1</data>
+    </node>
+    <node id="event">
+      <data key="d0">1</data>
+    </node>
+    <node id="mexico">
+      <data key="d0">1</data>
+    </node>
+    <node id="part a of the general annexes">
+      <data key="d0">1</data>
+    </node>
+    <node id="invest">
+      <data key="d0">1</data>
+    </node>
+    <node id="catalog">
+      <data key="d0">1</data>
+    </node>
+    <node id="Registration deadline extended for ELOISE event">
+      <data key="d0">0</data>
+    </node>
+    <node id="current">
+      <data key="d0">1</data>
+    </node>
+    <node id="29.3 of the Model Grant Agreement">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.hnscicloud">
+      <data key="d0">1</data>
+    </node>
+    <node id="north_america">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020_info_kit">
+      <data key="d0">1</data>
+    </node>
+    <node id="eur">
+      <data key="d0">1</data>
+    </node>
+    <node id="science with and for society brokerage event">
+      <data key="d0">1</data>
+    </node>
+    <node id="A landmark agreement sustaining the pan European Collaborative Data Infrastructure for the next 10 years">
+      <data key="d0">0</data>
+    </node>
+    <node id="eosc infoday - european open science cloud - overview">
+      <data key="d0">1</data>
+    </node>
+    <node id="scientific">
+      <data key="d0">1</data>
+    </node>
+    <node id="news62310">
+      <data key="d0">1</data>
+    </node>
+    <node id="EOSC Infoday - European Open Science Cloud for Research - INFRADEV-04-2016">
+      <data key="d0">0</data>
+    </node>
+    <node id="Support to policies and international cooperation for e-infrastructures">
+      <data key="d0">0</data>
+    </node>
+    <node id="searchscience">
+      <data key="d0">1</data>
+    </node>
+    <node id="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation">
+      <data key="d0">0</data>
+    </node>
+    <node id="press">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.kiceurope">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.arcticlcc">
+      <data key="d0">1</data>
+    </node>
+    <node id="Polar">
+      <data key="d0">1</data>
+    </node>
+    <node id="native">
+      <data key="d0">1</data>
+    </node>
+    <node id="am509774CEE_EN_E4">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.fosteropenscience">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.aqua.dtu">
+      <data key="d0">1</data>
+    </node>
+    <node id="E-infrastructure project success story winners announced">
+      <data key="d0">0</data>
+    </node>
+    <node id="annex">
+      <data key="d0">1</data>
+    </node>
+    <node id="science_and_techn">
+      <data key="d0">1</data>
+    </node>
+    <node id="Open Data in Action: Researchers, funders and industry to discuss the impact of life science data on innovation">
+      <data key="d0">0</data>
+    </node>
+    <node id="jobs">
+      <data key="d0">1</data>
+    </node>
+    <node id="cesardegradationreport100203">
+      <data key="d0">1</data>
+    </node>
+    <node id="colab">
+      <data key="d0">1</data>
+    </node>
+    <node id="MIDAS final conference">
+      <data key="d0">0</data>
+    </node>
+    <node id="jean">
+      <data key="d0">1</data>
+    </node>
+    <node id="Frequently Asked Questions (FAQs) H2020-SwafS-2016-17">
+      <data key="d0">1</data>
+    </node>
+    <node id="Hong Kong &amp; Macau">
+      <data key="d0">0</data>
+    </node>
+    <node id="“science, innovation and society: achieving responsible research and innovation”">
+      <data key="d0">1</data>
+    </node>
+    <node id="doaj">
+      <data key="d0">1</data>
+    </node>
+    <node id="The Marine Microbiome – A treasure trove of scientific and industrial potential ">
+      <data key="d0">0</data>
+    </node>
+    <node id="eng">
+      <data key="d0">1</data>
+    </node>
+    <node id="eap">
+      <data key="d0">1</data>
+    </node>
+    <node id="about_geo">
+      <data key="d0">1</data>
+    </node>
+    <node id="alliance">
+      <data key="d0">1</data>
+    </node>
+    <node id="I2aoWC">
+      <data key="d0">1</data>
+    </node>
+    <node id="MaCuMBA Project Final Event: Marine Microbiome - Discovery &amp; Innovation ">
+      <data key="d0">0</data>
+    </node>
+    <node id="network">
+      <data key="d0">1</data>
+    </node>
+    <node id="codeOfConduct">
+      <data key="d0">1</data>
+    </node>
+    <node id="RRI">
+      <data key="d0">1</data>
+    </node>
+    <node id="Towards the European Open Science Cloud: Main Outcomes of the Helix Nebula Initiative Open Day Event">
+      <data key="d0">0</data>
+    </node>
+    <node id="rus">
+      <data key="d0">1</data>
+    </node>
+    <node id="ihec">
+      <data key="d0">1</data>
+    </node>
+    <node id="BioUnify COST Grant proposal published via the innovative RIO Journal ">
+      <data key="d0">0</data>
+    </node>
+    <node id="TOPIC : Putting Open Science into action ">
+      <data key="d0">0</data>
+    </node>
+    <node id="Research Enquiry Service">
+      <data key="d0">1</data>
+    </node>
+    <node id="objectives">
+      <data key="d0">1</data>
+    </node>
+    <node id="ri0007_en">
+      <data key="d0">1</data>
+    </node>
+    <node id="part h of the general annexes">
+      <data key="d0">1</data>
+    </node>
+    <node id="unit-">
+      <data key="d0">1</data>
+    </node>
+    <node id="C of the General Annexes of the General Work Programme">
+      <data key="d0">0</data>
+    </node>
+    <node id="fp7-infra">
+      <data key="d0">1</data>
+    </node>
+    <node id="aon)—a">
+      <data key="d0">1</data>
+    </node>
+    <node id="www">
+      <data key="d0">1</data>
+    </node>
+    <node id="mediterranean">
+      <data key="d0">1</data>
+    </node>
+    <node id="specific proposal template">
+      <data key="d0">1</data>
+    </node>
+    <node id="PAGES open science meeting, China">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.icordi">
+      <data key="d0">1</data>
+    </node>
+    <node id="2009">
+      <data key="d0">1</data>
+    </node>
+    <node id="europe">
+      <data key="d0">1</data>
+    </node>
+    <node id="india">
+      <data key="d0">1</data>
+    </node>
+    <node id="part h of the general annexes of the general work programme">
+      <data key="d0">1</data>
+    </node>
+    <node id="grants">
+      <data key="d0">1</data>
+    </node>
+    <node id="commission_2010">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.irfs">
+      <data key="d0">1</data>
+    </node>
+    <node id="legal basis: horizon 2020 specific programme">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.rfh">
+      <data key="d0">1</data>
+    </node>
+    <node id="m2">
+      <data key="d0">1</data>
+    </node>
+    <node id="2 November 2016: Helix Nebula Science Cloud awards Design Phase contracts to four consortia">
+      <data key="d0">0</data>
+    </node>
+    <node id="User-driven e-infrastructure innovation">
+      <data key="d0">0</data>
+    </node>
+    <node id="Vision_2020_FINAL-1">
+      <data key="d0">1</data>
+    </node>
+    <node id="140708_h2020_pgui">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.haneurope.or">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.libereurope">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.nsf">
+      <data key="d0">1</data>
+    </node>
+    <node id="consol">
+      <data key="d0">1</data>
+    </node>
+    <node id="detail">
+      <data key="d0">1</data>
+    </node>
+    <node id="hnscicloud">
+      <data key="d0">1</data>
+    </node>
+    <node id="zenodo">
+      <data key="d0">1</data>
+    </node>
+    <node id="in_your_country_en">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.netbiome">
+      <data key="d0">1</data>
+    </node>
+    <node id="reference_docs">
+      <data key="d0">1</data>
+    </node>
+    <node id="horizon-2020-brief-">
+      <data key="d0">1</data>
+    </node>
+    <node id="C of the General Annexes">
+      <data key="d0">0</data>
+    </node>
+    <node id="national_ocean_policy_implementation_plan">
+      <data key="d0">1</data>
+    </node>
+    <node id="technology readiness levels (trl)">
+      <data key="d0">1</data>
+    </node>
+    <node id="Financial support to Third Parties">
+      <data key="d0">0</data>
+    </node>
+    <node id="protecting">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.doaj">
+      <data key="d0">1</data>
+    </node>
+    <node id="Seafood Safety: New Findings &amp; Innovation Challenges – Discover the Conference Programme Online Now">
+      <data key="d0">0</data>
+    </node>
+    <node id="Worldwide computing grid set to handle data from CERN's Large Hadron Collider">
+      <data key="d0">0</data>
+    </node>
+    <node id="legal basis: horizon 2020 rules for participation">
+      <data key="d0">1</data>
+    </node>
+    <node id="Australia">
+      <data key="d0">0</data>
+    </node>
+    <node id="Canada">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.msip.go">
+      <data key="d0">1</data>
+    </node>
+    <node id="New challenges for Food and Agriculture Research Euragri conference: &quot;Science for Society - Science with Society&quot;, Brussels.">
+      <data key="d0">0</data>
+    </node>
+    <node id="YEBYA">
+      <data key="d0">1</data>
+    </node>
+    <node id="office">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020 work programme 2016-17: general annexes">
+      <data key="d0">1</data>
+    </node>
+    <node id="Code_Conduct_ResearchIntegrity">
+      <data key="d0">1</data>
+    </node>
+    <node id="econ_report_all">
+      <data key="d0">1</data>
+    </node>
+    <node id="econreport">
+      <data key="d0">1</data>
+    </node>
+    <node id="NetBiome-CSA International Conference called upon Europe to reconcile nature protection with sustainable human development">
+      <data key="d0">0</data>
+    </node>
+    <node id="observatory">
+      <data key="d0">1</data>
+    </node>
+    <node id="Seminar: “From Biosamples to Personalized Medicine”">
+      <data key="d0">0</data>
+    </node>
+    <node id="Mexico">
+      <data key="d0">0</data>
+    </node>
+    <node id="Greenhouse gas emissions still an issue">
+      <data key="d0">0</data>
+    </node>
+    <node id="Japan">
+      <data key="d0">0</data>
+    </node>
+    <node id="FUS_2011">
+      <data key="d0">1</data>
+    </node>
+    <node id="welcome">
+      <data key="d0">1</data>
+    </node>
+    <node id="china">
+      <data key="d0">1</data>
+    </node>
+    <node id="Home">
+      <data key="d0">1</data>
+    </node>
+    <node id="hong kong &amp; macau">
+      <data key="d0">1</data>
+    </node>
+    <node id="h2020 work programme 2016-17: science with and for society">
+      <data key="d0">1</data>
+    </node>
+    <node id="RDA Europe supports 20 Europeans to attend the RDA 7th Plenary Meeting, 1-3 March, Tokyo, Japan. ">
+      <data key="d0">0</data>
+    </node>
+    <node id="Legal basis: Horizon 2020 - Regulation of Establishment">
+      <data key="d0">0</data>
+    </node>
+    <node id="wp">
+      <data key="d0">1</data>
+    </node>
+    <node id="brain">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.edctp">
+      <data key="d0">1</data>
+    </node>
+    <node id="nstc">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.macumbaproject">
+      <data key="d0">1</data>
+    </node>
+    <node id="Implementing_Arrangement_2013">
+      <data key="d0">1</data>
+    </node>
+    <node id="udl?uri">
+      <data key="d0">1</data>
+    </node>
+    <node id="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;">
+      <data key="d0">0</data>
+    </node>
+    <node id="Model Grant Agreement">
+      <data key="d0">0</data>
+    </node>
+    <node id="www.egi">
+      <data key="d0">1</data>
+    </node>
+    <node id="glopidr">
+      <data key="d0">1</data>
+    </node>
+    <node id="part A of the General Annexes">
+      <data key="d0">0</data>
+    </node>
+    <node id="ec_rgc_cs">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.hfsp">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.fasie">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.eranetmed">
+      <data key="d0">1</data>
+    </node>
+    <node id="economics">
+      <data key="d0">1</data>
+    </node>
+    <node id="horizon-2020-whats">
+      <data key="d0">1</data>
+    </node>
+    <node id="garri-4-2015">
+      <data key="d0">1</data>
+    </node>
+    <node id="fdct">
+      <data key="d0">1</data>
+    </node>
+    <node id="US comes out on top in EU-US innovation comparison">
+      <data key="d0">0</data>
+    </node>
+    <node id="eosc infoday - european open science cloud for research - infradev-04-2016">
+      <data key="d0">1</data>
+    </node>
+    <node id="TOPIC : e-Infrastructure for Open Access ">
+      <data key="d0">0</data>
+    </node>
+    <node id="e-Infrastructure for Open Access">
+      <data key="d0">0</data>
+    </node>
+    <node id="Open Acess Research Data without Barriers Conference in Gothenburg, Sweden">
+      <data key="d0">0</data>
+    </node>
+    <node id="legal basis: horizon 2020 - regulation of establishment">
+      <data key="d0">1</data>
+    </node>
+    <node id="CHAIN-REDS paves way for global e-Infrastructure ecosystem for researchers">
+      <data key="d0">0</data>
+    </node>
+    <node id="2016">
+      <data key="d0">1</data>
+    </node>
+    <node id="arxiv">
+      <data key="d0">1</data>
+    </node>
+    <node id="Technology readiness levels (TRL)">
+      <data key="d0">0</data>
+    </node>
+    <node id="trtdocs_wo029">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.eudat">
+      <data key="d0">1</data>
+    </node>
+    <node id="vision2050">
+      <data key="d0">1</data>
+    </node>
+    <node id="ccNorthernCommunities">
+      <data key="d0">1</data>
+    </node>
+    <node id="Issue 13 of MaCuMBA Project News Now Available">
+      <data key="d0">0</data>
+    </node>
+    <node id="unit%20costs_clinical_studies">
+      <data key="d0">1</data>
+    </node>
+    <node id="fp7-health">
+      <data key="d0">1</data>
+    </node>
+    <node id="russia">
+      <data key="d0">1</data>
+    </node>
+    <node id="www.ecsafeseafoodconference">
+      <data key="d0">1</data>
+    </node>
+    <node id="fisheries_economics_2011">
+      <data key="d0">1</data>
+    </node>
+    <edge source="tools" target="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;" />
+    <edge source="tools" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="[2]" target="TOPIC : Putting Open Science into action " />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="japan" />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="model grant agreement" />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="russia" />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="china" />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="india" />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="Vision2050-FullReport_Final" />
+    <edge source="Legal basis: Horizon 2020 Specific Programme" target="brazil" />
+    <edge source="www.fdct.gov" target="Hong Kong &amp; Macau" />
+    <edge source="Status" target="national_ocean_policy_implementation_plan" />
+    <edge source="h2020-infoday-eosc-call-topics_en" target="d4science" />
+    <edge source="h2020-infoday-eosc-call-topics_en" target="user-driven e-infrastructure innovation" />
+    <edge source="h2020-infoday-eosc-call-topics_en" target="support to policies and international cooperation for e-infrastructures" />
+    <edge source="h2020-infoday-eosc-call-topics_en" target="observatory" />
+    <edge source=" Participant Portal" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source=" Participant Portal" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source=" Participant Portal" target="TOPIC : Putting Open Science into action " />
+    <edge source=" Participant Portal" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source=" Participant Portal" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source=" Participant Portal" target="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " />
+    <edge source="2013_arctic_research_plan" target="aon)—a" />
+    <edge source="2013_arctic_research_plan" target="other" />
+    <edge source="2013_arctic_research_plan" target="japan" />
+    <edge source="2013_arctic_research_plan" target="index" />
+    <edge source="2013_arctic_research_plan" target="data" />
+    <edge source="2013_arctic_research_plan" target="annex_roadmaps_sep-2014" />
+    <edge source="2013_arctic_research_plan" target="www" />
+    <edge source="2013_arctic_research_plan" target="Polar" />
+    <edge source="2013_arctic_research_plan" target="Project%20description%20II" />
+    <edge source="2013_arctic_research_plan" target="ostp" />
+    <edge source="2013_arctic_research_plan" target="china" />
+    <edge source="2013_arctic_research_plan" target="2009" />
+    <edge source="2013_arctic_research_plan" target="india" />
+    <edge source="2013_arctic_research_plan" target="russia" />
+    <edge source="2013_arctic_research_plan" target="searchscience" />
+    <edge source="2013_arctic_research_plan" target="www.globalchange" />
+    <edge source="2013_arctic_research_plan" target="www.arcticlcc" />
+    <edge source="2013_arctic_research_plan" target="dbo" />
+    <edge source="2013_arctic_research_plan" target="reportcard" />
+    <edge source="2013_arctic_research_plan" target="aon" />
+    <edge source="2013_arctic_research_plan" target="nstc" />
+    <edge source="2013_arctic_research_plan" target="canada" />
+    <edge source="2013_arctic_research_plan" target="catalog" />
+    <edge source="2013_arctic_research_plan" target="circ1370" />
+    <edge source="2013_arctic_research_plan" target="m2" />
+    <edge source="2013_arctic_research_plan" target="ccNorthernCommunities" />
+    <edge source="2013_arctic_research_plan" target="cgi" />
+    <edge source="2013_arctic_research_plan" target="login" />
+    <edge source="2013_arctic_research_plan" target="www.earthsystemgrid" />
+    <edge source="2013_arctic_research_plan" target="objectives" />
+    <edge source="2013_arctic_research_plan" target="www.icarp" />
+    <edge source="dpo" target="Annotated Grant Agreement" />
+    <edge source="h2020-hi" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="h2020-hi" target="927" />
+    <edge source="h2020-hi" target="Classified information" />
+    <edge source="National Contact Points (NCP)" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="National Contact Points (NCP)" target="TOPIC : Putting Open Science into action " />
+    <edge source="National Contact Points (NCP)" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="National Contact Points (NCP)" target="Russia" />
+    <edge source="National Contact Points (NCP)" target="Japan" />
+    <edge source="National Contact Points (NCP)" target="Mexico" />
+    <edge source="National Contact Points (NCP)" target="Australia" />
+    <edge source="National Contact Points (NCP)" target="Republic of Korea" />
+    <edge source="National Contact Points (NCP)" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source="National Contact Points (NCP)" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="National Contact Points (NCP)" target="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " />
+    <edge source="default" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="default" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="default" target="TOPIC : Putting Open Science into action " />
+    <edge source="default" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source="default" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="default" target="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " />
+    <edge source="3rd" target="Make a date with data: the third EUDAT conference" />
+    <edge source="eumexinnova1" target="Mexico" />
+    <edge source="Specific evaluation form" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="country" target="annex_roadmaps_sep-2014" />
+    <edge source="link" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Make a date with data: the third EUDAT conference" target="poster" />
+    <edge source="www.medspring" target="annex_roadmaps_sep-2014" />
+    <edge source="action?query_source" target="Canada" />
+    <edge source="Information Retrieval Symposium, Vienna" target="www.irfs" />
+    <edge source="ncp.tsagi" target="Russia" />
+    <edge source="model grant agreement" target="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation" />
+    <edge source="model grant agreement" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="model grant agreement" target="Annotated Grant Agreement" />
+    <edge source="model grant agreement" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="model grant agreement" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="model grant agreement" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="model grant agreement" target="Model Grant Agreement" />
+    <edge source="model grant agreement" target="927" />
+    <edge source="model grant agreement" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="model grant agreement" target="Specific proposal template" />
+    <edge source="model grant agreement" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="model grant agreement" target="Legal basis: Horizon 2020 Rules for Participation" />
+    <edge source="model grant agreement" target="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " />
+    <edge source="“Science, Innovation and Society: achieving Responsible Research and Innovation”" target="“science, innovation and society: achieving responsible research and innovation”" />
+    <edge source="“Science, Innovation and Society: achieving Responsible Research and Innovation”" target="conference" />
+    <edge source="“Science, Innovation and Society: achieving Responsible Research and Innovation”" target="www" />
+    <edge source="part b" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="part b" target="Annotated Grant Agreement" />
+    <edge source="part b" target="Guide to the submission and evaluation process" />
+    <edge source="part b" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="part b" target="Specific proposal template" />
+    <edge source="part b" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="part b" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="national_contact_points" target="China" />
+    <edge source="national_contact_points" target="Canada" />
+    <edge source="national_contact_points" target="Taiwan" />
+    <edge source="www.ands.org" target="Open Acess Research Data without Barriers Conference in Gothenburg, Sweden" />
+    <edge source="Guide to the submission and evaluation process" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Guide to the submission and evaluation process" target="classified information" />
+    <edge source="Guide to the submission and evaluation process" target="eur" />
+    <edge source="Guide to the submission and evaluation process" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="faq_aq_101" target="national_ocean_policy_implementation_plan" />
+    <edge source="www.hse" target="Russia" />
+    <edge source="CHAIN-REDS Conference: 'Open Science at the Global Scale: Sharing e-Infrastructures, Sharing Knowledge, Sharing Progress'" target="www" />
+    <edge source="infradev-04-2016" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="treatiesGeneralData" target="annex_roadmaps_sep-2014" />
+    <edge source="Open access must be granted to all scientific publications " target="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " />
+    <edge source="index_en" target="China" />
+    <edge source="index_en" target="927" />
+    <edge source="index_en" target="India" />
+    <edge source="index_en" target="Republic of Korea" />
+    <edge source="index_en" target="Canada" />
+    <edge source="index_en" target="Mexico" />
+    <edge source="index_en" target="Russia" />
+    <edge source="index_en" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="index_en" target="Taiwan" />
+    <edge source="science-" target="Japan" />
+    <edge source="science-" target="927" />
+    <edge source="global_ethics_science_technology" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="14th Issue of MaCuMBA Project News Now Available" target="www.macumbaproject" />
+    <edge source="14th Issue of MaCuMBA Project News Now Available" target="MaCuMBAProject" />
+    <edge source="canada" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="canada" target="927" />
+    <edge source="canada" target="Worldwide computing grid set to handle data from CERN's Large Hadron Collider" />
+    <edge source="canada" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="canada" target="Canada" />
+    <edge source="canada" target="annex_roadmaps_sep-2014" />
+    <edge source="ECsafeSEAFOOD Final Event: Seafood Safety – New Findings &amp; Innovation Challenges" target="www.ecsafeseafoodconference" />
+    <edge source="Horizon 2020 budget flexibility" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Horizon 2020 budget flexibility" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="oceans" target="annex_roadmaps_sep-2014" />
+    <edge source="epigenomes" target="annex_roadmaps_sep-2014" />
+    <edge source="Open Science Training Workshop" target="mares" />
+    <edge source="Final Issue of MaCuMBA Project News Now Available" target="www.macumbaproject" />
+    <edge source="Final Issue of MaCuMBA Project News Now Available" target="MaCuMBAProject" />
+    <edge source="[1]" target="TOPIC : Putting Open Science into action " />
+    <edge source="national_offshore_wind_strategy" target="national_ocean_policy_implementation_plan" />
+    <edge source="www.dtu" target="927" />
+    <edge source="index.en" target="Model Grant Agreement" />
+    <edge source="index.en" target="Annotated Grant Agreement" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="Science and Society Portal" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="H2020 Online Manual" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="am509774CEE_EN_E4" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="index" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="Participant Portal FAQ" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="Model Grant Agreement" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="randd" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="Research Enquiry Service" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="29.3 of the Model Grant Agreement" />
+    <edge source="TOPIC : Data and Distributed Computing e-infrastructures for Open Science " target="Partner Search Services" />
+    <edge source="RRITools" target="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;" />
+    <edge source="mp2008" target="national_ocean_policy_implementation_plan" />
+    <edge source="specific provisions and funding rates" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="specific provisions and funding rates" target="Specific provisions and funding rates" />
+    <edge source="specific provisions and funding rates" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="specific provisions and funding rates" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="h2020-eu" target="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation" />
+    <edge source="csf" target="annex_roadmaps_sep-2014" />
+    <edge source="apc.ucc" target="Microbiome Research: A Key to Improving Health, Drive Food Production, and Boost EU innovation" />
+    <edge source="c of the general annexes" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="c of the general annexes" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="EGEE becomes world largest scientific grid" target="japan" />
+    <edge source="MaCuMBAProject" target="MaCuMBA Project Final Event: Marine Microbiome - Discovery &amp; Innovation " />
+    <edge source="MaCuMBAProject" target="Issue 13 of MaCuMBA Project News Now Available" />
+    <edge source="MaCuMBAProject" target="1st International Conference on the Marine Microbiome - Discovery &amp; Innovation for Science and Industry " />
+    <edge source="helpdesk" target="927" />
+    <edge source="bio" target="Russia" />
+    <edge source="DocsNPublicsKr_BoardList" target="Republic of Korea" />
+    <edge source="fp7-sme" target="Russia" />
+    <edge source="science" target="927" />
+    <edge source="Science and Society Portal" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Science and Society Portal" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="Science and Society Portal" target="TOPIC : Putting Open Science into action " />
+    <edge source="Science and Society Portal" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source="Science and Society Portal" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="index" target="China" />
+    <edge source="index" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="index" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source="index" target="A landmark agreement sustaining the pan European Collaborative Data Infrastructure for the next 10 years" />
+    <edge source="index" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="index" target="Australia" />
+    <edge source="index" target="TOPIC : Putting Open Science into action " />
+    <edge source="index" target="annex_roadmaps_sep-2014" />
+    <edge source="index" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="45445" target="Annotated Grant Agreement" />
+    <edge source="MaCuMBA: Key events helping to map the marine microorganism seascape &#10;" target="www.macumbaproject" />
+    <edge source="annex_roadmaps_sep-2014" target="japan" />
+    <edge source="annex_roadmaps_sep-2014" target="tradoc_151003" />
+    <edge source="annex_roadmaps_sep-2014" target="Russia" />
+    <edge source="annex_roadmaps_sep-2014" target="era" />
+    <edge source="annex_roadmaps_sep-2014" target="www" />
+    <edge source="annex_roadmaps_sep-2014" target="mediterranean" />
+    <edge source="annex_roadmaps_sep-2014" target="www.haneurope.or" />
+    <edge source="annex_roadmaps_sep-2014" target="china" />
+    <edge source="annex_roadmaps_sep-2014" target="africanradioastronomy" />
+    <edge source="annex_roadmaps_sep-2014" target="commission_2010" />
+    <edge source="annex_roadmaps_sep-2014" target="press" />
+    <edge source="annex_roadmaps_sep-2014" target="brain" />
+    <edge source="annex_roadmaps_sep-2014" target="www.edctp" />
+    <edge source="annex_roadmaps_sep-2014" target="www.gacd" />
+    <edge source="annex_roadmaps_sep-2014" target="india" />
+    <edge source="annex_roadmaps_sep-2014" target="www.arimnet" />
+    <edge source="annex_roadmaps_sep-2014" target="brazil" />
+    <edge source="annex_roadmaps_sep-2014" target="glopidr" />
+    <edge source="annex_roadmaps_sep-2014" target="Canada" />
+    <edge source="annex_roadmaps_sep-2014" target="current" />
+    <edge source="annex_roadmaps_sep-2014" target="republic of korea" />
+    <edge source="annex_roadmaps_sep-2014" target="evaluation" />
+    <edge source="annex_roadmaps_sep-2014" target="australia" />
+    <edge source="annex_roadmaps_sep-2014" target="www.hfsp" />
+    <edge source="annex_roadmaps_sep-2014" target="www.eranetmed" />
+    <edge source="annex_roadmaps_sep-2014" target="horizon-2020-whats" />
+    <edge source="annex_roadmaps_sep-2014" target="eap" />
+    <edge source="annex_roadmaps_sep-2014" target="national_ocean_policy_implementation_plan" />
+    <edge source="annex_roadmaps_sep-2014" target="www.eurofleets" />
+    <edge source="annex_roadmaps_sep-2014" target="about_geo" />
+    <edge source="annex_roadmaps_sep-2014" target="russia" />
+    <edge source="annex_roadmaps_sep-2014" target="www.innovationpolicyplatform" />
+    <edge source="annex_roadmaps_sep-2014" target="basin" />
+    <edge source="annex_roadmaps_sep-2014" target="www.haneurope" />
+    <edge source="annex_roadmaps_sep-2014" target="network" />
+    <edge source="annex_roadmaps_sep-2014" target="ius-2014_en" />
+    <edge source="annex_roadmaps_sep-2014" target="invest" />
+    <edge source="annex_roadmaps_sep-2014" target="rus" />
+    <edge source="annex_roadmaps_sep-2014" target="ihec" />
+    <edge source="annex_roadmaps_sep-2014" target="9789264067233-en" />
+    <edge source="annex_roadmaps_sep-2014" target="www.foresterra" />
+    <edge source="Infoday Programme" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Creating a successful European Digital Single Market requires open science, open innovation, open scholarship and open infrastructures. Press Release" target="tNuvYc" />
+    <edge source="www.re3data" target="927" />
+    <edge source="h2020 work programme 2016-17: dissemination, exploitation and evaluation" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="h2020 work programme 2016-17: dissemination, exploitation and evaluation" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="h2020 work programme 2016-17: dissemination, exploitation and evaluation" target="TOPIC : Putting Open Science into action " />
+    <edge source="user-driven e-infrastructure innovation" target="EOSC Infoday - European Open Science Cloud for Research - INFRADEV-04-2016" />
+    <edge source="user-driven e-infrastructure innovation" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="searc" target="Republic of Korea" />
+    <edge source="specific evaluation form" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="specific evaluation form" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="BONUS research opportunities in the Baltic" target="russia" />
+    <edge source="Cloudscape Brazil 2015. How business and research are innovating in the cloud&#10;" target="EGI" />
+    <edge source="Cloudscape Brazil 2015. How business and research are innovating in the cloud&#10;" target="brazil" />
+    <edge source="Cloudscape Brazil 2015. How business and research are innovating in the cloud&#10;" target="lvl.i3m.upv" />
+    <edge source="Specific proposal template" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Specific proposal template" target="lfv" />
+    <edge source="Specific proposal template" target="classified information" />
+    <edge source="Specific proposal template" target="financial support to third parties" />
+    <edge source="Specific proposal template" target="gendered" />
+    <edge source="Specific proposal template" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="The European Open Science Cloud for Research" target="www.libereurope" />
+    <edge source="The European Open Science Cloud for Research" target="zenodo" />
+    <edge source="The European Open Science Cloud for Research" target="www.geant" />
+    <edge source="The European Open Science Cloud for Research" target="www.openaire" />
+    <edge source="The European Open Science Cloud for Research" target="www.eudat" />
+    <edge source="The European Open Science Cloud for Research" target="www.egi" />
+    <edge source="The European Open Science Cloud for Research" target="the european open science cloud for research" />
+    <edge source="other" target="Hong Kong &amp; Macau" />
+    <edge source="501100007601" target="Annotated Grant Agreement" />
+    <edge source="Guiding EU researchers along the 'last mile' to Open Digital Science" target="rio.2" />
+    <edge source="h2020-prizes" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="EUinRussia" target="Russia" />
+    <edge source="927" target="1172" />
+    <edge source="927" target="www.openaire" />
+    <edge source="927" target="www" />
+    <edge source="927" target="Access_to_Research_and_Technical_Information_in_Denmark" />
+    <edge source="927" target="doaj" />
+    <edge source="927" target="h2020-mga" />
+    <edge source="927" target="news62310" />
+    <edge source="927" target="press" />
+    <edge source="927" target="www.doaj" />
+    <edge source="927" target="Annotated Grant Agreement" />
+    <edge source="927" target="news" />
+    <edge source="927" target="native" />
+    <edge source="927" target="www.fosteropenscience" />
+    <edge source="927" target="www.aqua.dtu" />
+    <edge source="927" target="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;" />
+    <edge source="927" target="digital" />
+    <edge source="927" target="www.dcc.ac" />
+    <edge source="index_pt" target="Brazil" />
+    <edge source="SiS" target="Science with and for Society Brokerage Event" />
+    <edge source="Legal basis: Horizon 2020 Rules for Participation" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Legal basis: Horizon 2020 Rules for Participation" target="classified information" />
+    <edge source="Legal basis: Horizon 2020 Rules for Participation" target="financial support to third parties" />
+    <edge source="list" target="Republic of Korea" />
+    <edge source="www.rscf" target="Russia" />
+    <edge source="eye" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="japan" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="japan" target="Japan" />
+    <edge source="japan" target="Russia" />
+    <edge source="japan" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="japan" target="Legal basis: Horizon 2020 - Regulation of Establishment" />
+    <edge source="japan" target="'Mappa Mundi' of Grid computing now available " />
+    <edge source="japan" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="japan" target="RDA Europe supports 20 Europeans to attend the RDA 7th Plenary Meeting, 1-3 March, Tokyo, Japan. " />
+    <edge source="the european open science cloud for research" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="guide" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source="www.fp7-energy" target="Russia" />
+    <edge source="guide to the submission and evaluation process" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="guide to the submission and evaluation process" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="mariecurieactions" target="Republic of Korea" />
+    <edge source="taiwan" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="taiwan" target="Worldwide computing grid set to handle data from CERN's Large Hadron Collider" />
+    <edge source="taiwan" target="Taiwan" />
+    <edge source="www.pcs.usp" target="Brazil" />
+    <edge source="Republic of Korea" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Republic of Korea" target="detail" />
+    <edge source="Republic of Korea" target="www.motie.go" />
+    <edge source="Republic of Korea" target="krResSupPro" />
+    <edge source="Republic of Korea" target="www.msip.go" />
+    <edge source="Republic of Korea" target="Implementing_Arrangement_2013" />
+    <edge source="Republic of Korea" target="www.haneurope.or" />
+    <edge source="Republic of Korea" target="www.kiceurope" />
+    <edge source="Republic of Korea" target="eng" />
+    <edge source="Republic of Korea" target="republic of korea" />
+    <edge source="c of the general annexes of the general work programme" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="c of the general annexes of the general work programme" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="horizon 2020 budget flexibility" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="horizon 2020 budget flexibility" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="republic of korea" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="republic of korea" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="republic of korea" target="part A of the General Annexes" />
+    <edge source="http://ec.europa.eu/commission/2014-2019/president_en" target="TOPIC : Putting Open Science into action " />
+    <edge source="0ad7644c390503e" target="national_ocean_policy_implementation_plan" />
+    <edge source="Participant Portal FAQ" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="Participant Portal FAQ" target="TOPIC : Putting Open Science into action " />
+    <edge source="Participant Portal FAQ" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="ncp" target="Russia" />
+    <edge source="financial support to third parties" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="financial support to third parties" target="Annotated Grant Agreement" />
+    <edge source="financial support to third parties" target="C of the General Annexes of the General Work Programme" />
+    <edge source="financial support to third parties" target="TOPIC : Putting Open Science into action " />
+    <edge source="financial support to third parties" target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="financial support to third parties" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="financial support to third parties" target="Model Grant Agreement" />
+    <edge source="financial support to third parties" target="TOPIC : Training on Open Science in the European Research Area " />
+    <edge source="financial support to third parties" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="financial support to third parties" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="financial support to third parties" target="Financial support to Third Parties" />
+    <edge source="EOSC Infoday - European Open Science Cloud - Overview" target="TOPIC : European Open Science Cloud for Research " />
+    <edge source="part H of the General Annexes of the General Work Programme" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="Frequently Asked Questions (FAQs) H2020-SwafS-2016-17" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="am509774CEE_EN_E4" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="partner-search" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="swafs-07-2016" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="H2020 Online Manual" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="Partner Search Services" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="h2020 work programme 2016-17: general annexes" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="randd" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="Research Enquiry Service" />
+    <edge source="TOPIC : Training on Open Science in the European Research Area " target="h2020 work programme 2016-17: science with and for society" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="technology readiness levels (trl)" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Partner Search Services" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="annotated grant agreement" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="specific proposal template" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="am509774CEE_EN_E4" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part h of the general annexes of the general work programme" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="legal basis: horizon 2020 specific programme" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Annotated Grant Agreement" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="legal basis: horizon 2020 - regulation of establishment" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Canada" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="information" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="hong kong &amp; macau" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="australia" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="C of the General Annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="classified information" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Financial support to Third Parties" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Specific evaluation form" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="legal basis: horizon 2020 rules for participation" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Australia" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="H2020 Online Manual" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="mexico" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part a of the general annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="h2020 work programme 2016-17: research infrastructures (including e-infrastructures)" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="eosc infoday - european open science cloud - overview" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part A of the General Annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="infoday programme" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="randd" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="29.3 of the Model Grant Agreement" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part a of the general annexes of the general work programme" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="India" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Mexico" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Russia" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Legal basis: Horizon 2020 - Regulation of Establishment" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Classified information" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="china" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="EOSC Infoday - European Open Science Cloud for Research - INFRADEV-04-2016" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Specific provisions and funding rates" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="eosc infoday - european open science cloud for research - infradev-04-2016" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="india" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="brazil" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="China" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Model Grant Agreement" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part B" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Hong Kong &amp; Macau" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Technology readiness levels (TRL)" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="h2020 work programme 2016-17: general annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part H of the General Annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Japan" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="part h of the general annexes" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Brazil" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Taiwan" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="EOSC Infoday - Support to the European Open Science Cloud through upcoming calls under the European Research Infrastructures (including e-Infrastructures) part of the Horizon 2020 Work Programme 2016-2017 (Augusto BURGUEÑO ARJONA, Head of Unit e-Infrastructure)" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="Research Enquiry Service" />
+    <edge source="TOPIC : European Open Science Cloud for Research " target="russia" />
+    <edge source="h2020-funding" target="H2020 Work Programme 2016-17: General Annexes" />
+    <edge source="h2020-funding" target="part A of the General Annexes of the General Work Programme" />
+    <edge source="h2020-funding" target="part A of the General Annexes" />
+    <edge source="H2020 Online Manual" target="TOPIC : Putting Open Science into action " />
+    <edge source="H2020 Online Manual" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="Brazil" target="brazil" />
+    <edge source="Weaving the Internet of Data: High level European policy meeting on funding research data to support open innovation" target="alliance" />
+    <edge source="Weaving the Internet of Data: High level European policy meeting on funding research data to support open innovation" target="europe" />
+    <edge source="Science with and for Society Brokerage Event" target="science with and for society brokerage event" />
+    <edge source="oapen" target="Annotated Grant Agreement" />
+    <edge source="'Mappa Mundi' of Grid computing now available " target="australia" />
+    <edge source="randd" target="TOPIC : Putting Open Science into action " />
+    <edge source="randd" target="TOPIC : Innovative approach to release and disseminate research results and measure their impact " />
+    <edge source="randd" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="part a of the general annexes of the general work programme" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="India" target="india" />
+    <edge source="Classified information" target="classified information" />
+    <edge source="h2020-mga" target="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation" />
+    <edge source="Russia" target="www.fasie" />
+    <edge source="Russia" target="h2020_info_kit" />
+    <edge source="Russia" target="fp7-infra" />
+    <edge source="Russia" target="www" />
+    <edge source="Russia" target="fp7-health" />
+    <edge source="Russia" target="www.rfbr" />
+    <edge source="Russia" target="arena" />
+    <edge source="Russia" target="2016" />
+    <edge source="Russia" target="www.rfh" />
+    <edge source="Russia" target="www.spbrc.nw" />
+    <edge source="Russia" target="russia" />
+    <edge source="Russia" target="china" />
+    <edge source="TOPIC : Innovative approach to release and disseminate research results and measure their impact " target="am509774CEE_EN_E4" />
+    <edge source="TOPIC : Innovative approach to release and disseminate research results and measure their impact " target="Research Enquiry Service" />
+    <edge source="TOPIC : Innovative approach to release and disseminate research results and measure their impact " target="garri-4-2015" />
+    <edge source="TOPIC : Innovative approach to release and disseminate research results and measure their impact " target="Partner Search Services" />
+    <edge source="HNSciCloud Pre-Commercial Procurement Open Market Consultation event" target="Home" />
+    <edge source="HNSciCloud Pre-Commercial Procurement Open Market Consultation event" target="nebula" />
+    <edge source="HNSciCloud Pre-Commercial Procurement Open Market Consultation event" target="www" />
+    <edge source="HNSciCloud Pre-Commercial Procurement Open Market Consultation event" target="udl?uri" />
+    <edge source="Specific provisions and funding rates" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="81103-RAE_17_FINAL_web" target="national_ocean_policy_implementation_plan" />
+    <edge source="rd" target="Open Acess Research Data without Barriers Conference in Gothenburg, Sweden" />
+    <edge source="rd" target="RDA Europe supports 20 Europeans to attend the RDA 7th Plenary Meeting, 1-3 March, Tokyo, Japan. " />
+    <edge source="China" target="china" />
+    <edge source="China" target="annex" />
+    <edge source="China" target="t20151216_122975" />
+    <edge source="China" target="140708_h2020_pgui" />
+    <edge source="China" target="www" />
+    <edge source="part B" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="Biodiversity loss continues unchecked, 2010 UN targets will be missed, experts say" target="china" />
+    <edge source="2014" target="TOPIC : Putting Open Science into action " />
+    <edge source="2014" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="1st International Conference on the Marine Microbiome - Discovery &amp; Innovation for Science and Industry " target="www.macumbaproject" />
+    <edge source="H2020 Work Programme 2016-17: General Annexes" target="classified information" />
+    <edge source="H2020 Work Programme 2016-17: General Annexes" target="technology readiness levels (trl)" />
+    <edge source="H2020 Work Programme 2016-17: General Annexes" target="TOPIC : Putting Open Science into action " />
+    <edge source="H2020 Work Programme 2016-17: General Annexes" target="india" />
+    <edge source="H2020 Work Programme 2016-17: General Annexes" target="consol" />
+    <edge source="nebula" target="Towards the European Open Science Cloud: Main Outcomes of the Helix Nebula Initiative Open Day Event" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="mexico" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="in_your_country_en" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="australia" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="support to policies and international cooperation for e-infrastructures" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="brazil" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="china" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="russia" />
+    <edge source="H2020 Work Programme 2016-17: Research infrastructures (including e-Infrastructures)" target="india" />
+    <edge source="501100000781" target="Annotated Grant Agreement" />
+    <edge source="invasive" target="national_ocean_policy_implementation_plan" />
+    <edge source="europepmc" target="Annotated Grant Agreement" />
+    <edge source="women" target="H2020 Work Programme 2016-17: Science with and for society" />
+    <edge source="Taiwan" target="office" />
+    <edge source="ocean.data" target="national_ocean_policy_implementation_plan" />
+    <edge source="europeanCharter" target="Annotated Grant Agreement" />
+    <edge source="macumba" target="The Marine Microbiome – A treasure trove of scientific and industrial potential " />
+    <edge source="www.ipcc" target="Legal basis: Horizon 2020 - Regulation of Establishment" />
+    <edge source="announce_eujoint_03_GeneralInfo" target="Japan" />
+    <edge source="annotated grant agreement" target="Annotated Grant Agreement" />
+    <edge source="partner-search" target="TOPIC : Putting Open Science into action " />
+    <edge source="rio.2" target="BioUnify COST Grant proposal published via the innovative RIO Journal " />
+    <edge source="einfra-2-2014" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="el" target="Mexico" />
+    <edge source="japan.gr" target="Japan" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="australia" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="jean" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="www" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="TOPIC : Putting Open Science into action " />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="vision2050" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="china" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="Code_Conduct_ResearchIntegrity" />
+    <edge source="H2020 Work Programme 2016-17: Science with and for society" target="india" />
+    <edge source="inforeuro_en" target="Model Grant Agreement" />
+    <edge source="inforeuro_en" target="Annotated Grant Agreement" />
+    <edge source="brazil" target="Legal basis: Horizon 2020 - Regulation of Establishment" />
+    <edge source="loader" target="national_ocean_policy_implementation_plan" />
+    <edge source="unit" target="Annotated Grant Agreement" />
+    <edge source="enow" target="national_ocean_policy_implementation_plan" />
+    <edge source="Annotated Grant Agreement" target="ri0007_en" />
+    <edge source="Annotated Grant Agreement" target="jobs" />
+    <edge source="Annotated Grant Agreement" target="zenodo" />
+    <edge source="Annotated Grant Agreement" target="australia" />
+    <edge source="Annotated Grant Agreement" target="unit-" />
+    <edge source="Annotated Grant Agreement" target="reference_docs" />
+    <edge source="Annotated Grant Agreement" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="Annotated Grant Agreement" target="eur" />
+    <edge source="Annotated Grant Agreement" target="arxiv" />
+    <edge source="Annotated Grant Agreement" target="trtdocs_wo029" />
+    <edge source="Annotated Grant Agreement" target="implementing" />
+    <edge source="Annotated Grant Agreement" target="classified information" />
+    <edge source="Annotated Grant Agreement" target="unit%20costs_clinical_studies" />
+    <edge source="Annotated Grant Agreement" target="Code_Conduct_ResearchIntegrity" />
+    <edge source="Annotated Grant Agreement" target="codeOfConduct" />
+    <edge source="part A of the General Annexes of the General Work Programme" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="Partner Search Services" target="TOPIC : Putting Open Science into action " />
+    <edge source="Partner Search Services" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="The Impact of the General Data Protection Regulation on the future collaborative science in Europe" target="event" />
+    <edge source="australia" target="Australia" />
+    <edge source="australia" target="Open Acess Research Data without Barriers Conference in Gothenburg, Sweden" />
+    <edge source="classified information" target="Model Grant Agreement" />
+    <edge source="res" target="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;" />
+    <edge source="event" target="Seminar: “From Biosamples to Personalized Medicine”" />
+    <edge source="mexico" target="CHAIN-REDS paves way for global e-Infrastructure ecosystem for researchers" />
+    <edge source="mexico" target="The Marine Microbiome – A treasure trove of scientific and industrial potential " />
+    <edge source="mexico" target="national_ocean_policy_implementation_plan" />
+    <edge source="mexico" target="Mexico" />
+    <edge source="part a of the general annexes" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="www.hnscicloud" target="2 November 2016: Helix Nebula Science Cloud awards Design Phase contracts to four consortia" />
+    <edge source="north_america" target="Canada" />
+    <edge source="scientific" target="national_ocean_policy_implementation_plan" />
+    <edge source="H2020 Work Programme 2016-17: Dissemination, Exploitation and Evaluation" target="TOPIC : Putting Open Science into action " />
+    <edge source="am509774CEE_EN_E4" target="TOPIC : Putting Open Science into action " />
+    <edge source="am509774CEE_EN_E4" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="science_and_techn" target="Australia" />
+    <edge source="Open Data in Action: Researchers, funders and industry to discuss the impact of life science data on innovation" target="europe" />
+    <edge source="cesardegradationreport100203" target="national_ocean_policy_implementation_plan" />
+    <edge source="colab" target="CHAIN-REDS paves way for global e-Infrastructure ecosystem for researchers" />
+    <edge source="MIDAS final conference" target="www" />
+    <edge source="Frequently Asked Questions (FAQs) H2020-SwafS-2016-17" target="TOPIC : Putting Open Science into action " />
+    <edge source="Hong Kong &amp; Macau" target="ec_rgc_cs" />
+    <edge source="Hong Kong &amp; Macau" target="fdct" />
+    <edge source="The Marine Microbiome – A treasure trove of scientific and industrial potential " target="www.macumbaproject" />
+    <edge source="I2aoWC" target="Seafood Safety: New Findings &amp; Innovation Challenges – Discover the Conference Programme Online Now" />
+    <edge source="MaCuMBA Project Final Event: Marine Microbiome - Discovery &amp; Innovation " target="www.macumbaproject" />
+    <edge source="RRI" target="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;" />
+    <edge source="Towards the European Open Science Cloud: Main Outcomes of the Helix Nebula Initiative Open Day Event" target="YEBYA" />
+    <edge source="Towards the European Open Science Cloud: Main Outcomes of the Helix Nebula Initiative Open Day Event" target="www" />
+    <edge source="Towards the European Open Science Cloud: Main Outcomes of the Helix Nebula Initiative Open Day Event" target="udl?uri" />
+    <edge source="TOPIC : Putting Open Science into action " target="h2020 work programme 2016-17: science with and for society" />
+    <edge source="TOPIC : Putting Open Science into action " target="h2020 work programme 2016-17: general annexes" />
+    <edge source="TOPIC : Putting Open Science into action " target="Research Enquiry Service" />
+    <edge source="Research Enquiry Service" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="part h of the general annexes" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="C of the General Annexes of the General Work Programme" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="C of the General Annexes of the General Work Programme" target="consol" />
+    <edge source="www" target="CHAIN-REDS paves way for global e-Infrastructure ecosystem for researchers" />
+    <edge source="www" target="Japan" />
+    <edge source="www" target="Launch of the Responsible Research and Innovation (RRI) Toolkit: fostering not only “the best science in the world but the best science for the world&quot;" />
+    <edge source="www" target="Canada" />
+    <edge source="specific proposal template" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="PAGES open science meeting, China" target="china" />
+    <edge source="www.icordi" target="Open Acess Research Data without Barriers Conference in Gothenburg, Sweden" />
+    <edge source="india" target="CHAIN-REDS paves way for global e-Infrastructure ecosystem for researchers" />
+    <edge source="india" target="part A of the General Annexes" />
+    <edge source="part h of the general annexes of the general work programme" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="grants" target="Australia" />
+    <edge source="2 November 2016: Helix Nebula Science Cloud awards Design Phase contracts to four consortia" target="hnscicloud" />
+    <edge source="Vision_2020_FINAL-1" target="national_ocean_policy_implementation_plan" />
+    <edge source="www.nsf" target="Open Acess Research Data without Barriers Conference in Gothenburg, Sweden" />
+    <edge source="consol" target="C of the General Annexes" />
+    <edge source="consol" target="part A of the General Annexes" />
+    <edge source="www.netbiome" target="NetBiome-CSA International Conference called upon Europe to reconcile nature protection with sustainable human development" />
+    <edge source="horizon-2020-brief-" target="Mexico" />
+    <edge source="horizon-2020-brief-" target="Canada" />
+    <edge source="national_ocean_policy_implementation_plan" target="protecting" />
+    <edge source="national_ocean_policy_implementation_plan" target="economics" />
+    <edge source="national_ocean_policy_implementation_plan" target="FUS_2011" />
+    <edge source="national_ocean_policy_implementation_plan" target="welcome" />
+    <edge source="national_ocean_policy_implementation_plan" target="wp" />
+    <edge source="national_ocean_policy_implementation_plan" target="econreport" />
+    <edge source="national_ocean_policy_implementation_plan" target="fisheries_economics_2011" />
+    <edge source="national_ocean_policy_implementation_plan" target="econ_report_all" />
+    <edge source="technology readiness levels (trl)" target="Technology readiness levels (TRL)" />
+    <edge source="Financial support to Third Parties" target="TOPIC : e-Infrastructure for Open Access " />
+    <edge source="Seafood Safety: New Findings &amp; Innovation Challenges – Discover the Conference Programme Online Now" target="www.ecsafeseafoodconference" />
+    <edge source="Code_Conduct_ResearchIntegrity" target="Model Grant Agreement" />
+    <edge source="china" target="CHAIN-REDS paves way for global e-Infrastructure ecosystem for researchers" />
+    <edge source="china" target="Legal basis: Horizon 2020 - Regulation of Establishment" />
+    <edge source="www.macumbaproject" target="Issue 13 of MaCuMBA Project News Now Available" />
+  </graph>
+</graphml>
