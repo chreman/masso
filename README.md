@@ -15,14 +15,14 @@ On the basis of the exploration, the hypotheses will be generated.
 ### Default pipeline
 
 Run a standardized pipeline that collects documents, extracts content and does preliminary preprocessing
-```python
+```bash
 python3 default_pipeline.py
 ```
 
 
 #### Custom crawler usage
 
-```python
+```bash
 python3 crawl.py --urls pdfs.txt --output pdfs --scrapers scraperdefinitions.json
 python3 crawl.py --urls news.txt --output press --scrapers scraperdefinitions.json --xml
 python3 crawl.py --urls calls.txt --output calls --scrapers scraperdefinitions.json --html
@@ -30,7 +30,7 @@ python3 crawl.py --urls calls.txt --output calls --scrapers scraperdefinitions.j
 
 #### Custom scraper usage
 
-```python
+```bash
 python3 extract.py --input pdfs --convert pdf --output corpus
 python3 extract.py --input press --convert xml --stylesheets_path stylesheets.json --classification press --output corpus
 python3 extract.py --input calls --convert html --stylesheets_path stylesheets.json --classification calls --output corpus
