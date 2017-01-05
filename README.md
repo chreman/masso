@@ -72,12 +72,16 @@ python3 extract.py --input calls --convert html --stylesheets_path stylesheets.j
 
 1) 8-10h for scrapers und crawler
   * 7.5
+
 2) 6-8h for textextraction
   * 5
+
 3) 12-15h for text mining and analysis
   * 6
+
 4) 10-12h for building a document network
   * 4.5
+
 5) 8-10h for workflow specification and documentation
   * 2
 
