@@ -34,9 +34,7 @@ logging.basicConfig(format=FORMAT, filename='crawl.log', level=logging.INFO)
 logger = logging.getLogger('crawllogger')
 
 def drawProgressBar(percent, barLen = 20):
-    """
-    Draw a progress bar to the command line.
-    """
+    """Draw a progress bar to the command line."""
     sys.stdout.write("\r")
     progress = ""
     for i in range(barLen):
@@ -52,14 +50,21 @@ def print_progress(m, n, url):
     sys.stdout.write("(%d / %d) Now downloading %s" %(m,n,url))
 
 def setup_folders(foldername):
-    """
-    Check whether outfolder folder and path exist, create them if necessary.
-    """
+    """Check whether outfolder folder and path exist, create them if necessary."""
     if not os.path.exists(foldername):
         os.makedirs(foldername)
 
 class Crawler(object):
-    """docstring for Crawler"""
+    """Crawl and download documents of different formats.
+
+    Args:
+        urls (str): relative or absolute path to a urls.txt
+        output (str): relative or absolute path to the output folder
+        scrapers (str): relative or absolute path to scraperdefinitions.json
+        xml (bool): whether to download available XML-files
+        pdf (bool): whether to download available PDF-files
+        html (bool): whether to download the HTML-page
+    """
     def __init__(self, urls, output, scrapers, xml, pdf, html):
         super(Crawler, self).__init__()
         self.urls = urls
@@ -73,12 +78,16 @@ class Crawler(object):
         setup_folders(output)
 
     def get_url_mapper(self):
+        """Load a csv file and return a dictionary of url, docname pairs."""
         with open("url_map.csv", "r") as infile:
             csvreader = csv.reader(infile, delimiter=";", quotechar='"')
             url_mapper = {row[0]:row[1] for row in csvreader}
         return url_mapper
 
     def get_cached(self):
+        """Load the list of visited urls for caching purposes.
+
+        :returns: set of str"""
         try:
             with open("visited_links.txt", "r") as infile:
                 visited = [l.strip() for l in infile.readlines()]
@@ -134,6 +143,12 @@ class Crawler(object):
             csvwriter.writerow([tail, url])
 
     def clean_link(self, link):
+        """Map a link to to a title, filename tuple.
+
+        :param link: link to map
+        :type link: str
+        :returns: tuple(str, str)
+        """
         title = self.url_mapper.get(link)
         head, tail = os.path.split(link)
         name, ext = os.path.splitext(tail)

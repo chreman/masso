@@ -79,6 +79,15 @@ def plotGraph(G, figsize=(8, 8), filename=None):
     plt.close("all")
 
 
+def plot_component_subgraphs(B):
+    subgraphs = list(nx.components.connected_component_subgraphs(B, False))
+    subgraphs = sorted(subgraphs, key = len, reverse=True)
+    for i, sg in enumerate(subgraphs[:1]):
+        plotGraph(sg, (24, 24), os.path.join(output, str(i)+".svg"))
+    for i, sg in enumerate(subgraphs[1:10]):
+        plotGraph(sg, (8, 8), os.path.join(output, str(i+1)+".svg"))
+
+
 nlp_en = spacy.load('en')
 
 
@@ -179,27 +188,23 @@ class MassoCorpus(object):
                 B.add_edge(source, target)
         return B, labels
 
-def main(input, output, cached_df):
+
+def main(input, output, name, cached_df):
     if not os.path.exists(output):
         os.makedirs(output)
     corpus = MassoCorpus(input, output, cached_df)
     if not cached_df:
         corpus.preprocess()
     B, labels = corpus.create_graph()
-    subgraphs = list(nx.components.connected_component_subgraphs(B, False))
-    subgraphs = sorted(subgraphs, key = len, reverse=True)
-    for i, sg in enumerate(subgraphs[:1]):
-        plotGraph(sg, (24, 24), os.path.join(output, str(i)+".svg"))
-    for i, sg in enumerate(subgraphs[1:10]):
-        plotGraph(sg, (8, 8), os.path.join(output, str(i+1)+".svg"))
-    nx.write_graphml(B, os.path.join(output, "test.graphml"))
-    corpus.cache_df("test")
+    nx.write_graphml(B, os.path.join(output, "%s.graphml" %name))
+    corpus.cache_df(name)
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Preprocess extracted documents and setup models.')
     parser.add_argument('--input', dest='input', help='relative or absolute path of the corpus.json')
     parser.add_argument('--output', dest='output', help='relative or absolute path of the results folder')
+    parser.add_argument('--name', dest='name', help='name of the analysis')
     parser.add_argument('--cached_df', dest='cached_df', help='relative or absolute path of the cached_df')
     args = parser.parse_args()
     main(args.input, args.output, args.cached_df)
