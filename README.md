@@ -31,7 +31,11 @@ If the virtual environment is not used, the pipeline has following dependencies 
 
 Run a standardized pipeline that collects documents, extracts content and does preliminary preprocessing
 ```bash
+<<<<<<< HEAD
 python3 default_pipeline.py --name test
+=======
+python3 default_pipeline.py
+>>>>>>> 122c665c3ece8652a4369ae3865d1a6b888b5b56
 ```
 
 
