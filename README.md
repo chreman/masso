@@ -89,6 +89,7 @@ python3 extract.py --input calls --convert html --stylesheets_path stylesheets.j
 
 ## ToDO
 
+* improve documentation of notebook
 * look at additional metadata to add to stylesheets
 * make topic models/w2v for classification-collections (one for press, one for policy, one for calls)
   * how compare?
