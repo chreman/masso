@@ -12,11 +12,30 @@ On the basis of the exploration, the hypotheses will be generated.
 * Activate virtualenv: `source activate masso`
 * Install natural language processing models `python -m spacy.en.download all`
 
+#### Requirements
+
+If the virtual environment is not used, the pipeline has following dependencies for Python 3.5.2:
+- gensim==0.13.3
+- jupyter==1.0.0
+- lxml==3.7.0
+- matplotlib==1.5.3
+- networkx==1.11
+- nltk==3.2.1
+- notebook==4.3.1
+- numpy==1.11.3
+- pandas==0.19.1
+- spacy==1.4.0
+- textract==1.5.0
+
 ### Default pipeline
 
 Run a standardized pipeline that collects documents, extracts content and does preliminary preprocessing
 ```bash
+<<<<<<< HEAD
+python3 default_pipeline.py --name test
+=======
 python3 default_pipeline.py
+>>>>>>> 122c665c3ece8652a4369ae3865d1a6b888b5b56
 ```
 
 
@@ -39,6 +58,8 @@ python3 extract.py --input calls --convert html --stylesheets_path stylesheets.j
 ## Analyse and explore with jupyter notebook
 
 * Start the interactive notebook from shell with `jupyter notebook` - assumes crawling and preprocessing has been done
+* The notebook loads the preprocessed dataframe produced by the default pipeline, and can be used to explore the fulltext contents with some natural language processing tools
+* Currently provided as examples are Latent Semantic Analysis and Latent Dirichlet Allocation, and a word2vec model (all from gensim)
 
 ## Requirements
 
@@ -93,7 +114,7 @@ python3 extract.py --input calls --convert html --stylesheets_path stylesheets.j
 * look at additional metadata to add to stylesheets
 * make topic models/w2v for classification-collections (one for press, one for policy, one for calls)
   * how compare?
-
+* Cite: http://radimrehurek.com/gensim/about.html
 
 ## Problems to discuss
 

@@ -30,7 +30,6 @@ import json
 import csv
 
 from lxml import html, etree
-from bs4 import BeautifulSoup
 import textract
 
 FORMAT = '%(asctime)-15s %(message)s'
@@ -64,7 +63,15 @@ def setup_folders(foldername):
         os.makedirs(foldername)
 
 class Extractor(object):
-    """docstring for Extractor"""
+    """Extract fulltext and metadata from different formats.
+
+    Args:
+        input (str): relative or absolute path to the input folder
+        output (str): relative or absolute path to the output folder
+        convert (str): type of the conversion, one of ["xml", "html", "pdf"]
+        stylesheets_path (str): relative or absolute path of the stylesheets definitions
+        classification (str): classification of the documents, one of ["press", "call", "pdf"]
+    """
     def __init__(self, input, output, convert, stylesheets_path, classification):
         super(Extractor, self).__init__()
         self.input = input
@@ -79,6 +86,7 @@ class Extractor(object):
             self.stylesheets = self.load_stylesheets()
 
     def load_stylesheets(self):
+        """Load and return a dictionary of stylesheets."""
         with open(self.stylesheets_path, "r") as infile:
             stylesheets = json.load(infile)
         return stylesheets
@@ -88,6 +96,12 @@ class Extractor(object):
             outfile.write(json.dumps(results)+"\n")
 
     def extractFromXML(self, tree):
+        """Extract fulltext and metadata from an XML file.
+
+        :param tree: a parsed XML file
+        :param type: lxml.ElementTree
+        :returns: dictionary
+        """
         converter = self.stylesheets.get(self.classification).get('xml')
         results = {}
         for element, value in converter.items():
@@ -112,6 +126,12 @@ class Extractor(object):
         return results
 
     def extractFromHTML(self, tree):
+        """Extract fulltext and metadata from an HTML file.
+
+        :param tree: a parsed HTML file
+        :param type: lxml.ElementTree
+        :returns: dictionary
+        """
         converter = self.stylesheets.get(self.classification).get('html')
         results = {}
         for element, value in converter.items():
@@ -136,6 +156,15 @@ class Extractor(object):
         return results
 
     def extractFromPDF(self, pdffile):
+        """Extract fulltext and metadata from a PDF file.
+
+        This function applies textract.process(), building on pdfminer,
+        to extract the text content from a PDF.
+
+        :param tree: path to a PDF file
+        :param type: str
+        :returns: dictionary
+        """
         results = {}
         _ , tail = os.path.split(pdffile)
         docname, _ = os.path.splitext(tail)
@@ -201,7 +230,7 @@ if __name__ == '__main__':
     parser.add_argument('--input', dest='input', help='relative or absolute path of the files to convert')
     parser.add_argument('--output', dest='output', help='relative or absolute path of the output files')
     parser.add_argument('--convert', dest='convert', help='type of the conversion, one of ["xml", "html", "pdf"]')
-    parser.add_argument('--stylesheets_path', dest='stylesheets_path', help='relative or absolute path of the stylesheets definitions, one of ["xml", "html", "pdf"]')
+    parser.add_argument('--stylesheets_path', dest='stylesheets_path', help='relative or absolute path of the stylesheets definitions')
     parser.add_argument('--classification', dest='classification', help='classification of the documents, one of ["press", "call"]')
     args = parser.parse_args()
     main(args)

@@ -65,21 +65,17 @@ def main(args):
         corpus.preprocess()
     print("Creating graph.")
     B, labels = corpus.create_graph()
-    subgraphs = list(nx.components.connected_component_subgraphs(B, False))
-    subgraphs = sorted(subgraphs, key = len, reverse=True)
-    for i, sg in enumerate(subgraphs[:1]):
-        plotGraph(sg, (24, 24), os.path.join(output, str(i)+".svg"))
-    for i, sg in enumerate(subgraphs[1:10]):
-        plotGraph(sg, (8, 8), os.path.join(output, str(i+1)+".svg"))
+    plot_component_subgraphs(B)
     print("Network graphs exported.")
-    nx.write_graphml(B, os.path.join(output, "test.graphml"))
-    corpus.cache_df("test")
+    nx.write_graphml(B, os.path.join(output, "%s.graphml" %args.name))
+    corpus.cache_df(args.name)
     print("DataFrame exported.")
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Download documents in urls.txt from European institutions.')
     parser.add_argument('--output', dest='output', help='relative or absolute path of the output files')
+    parser.add_argument('--name', dest='name', help='name of the analysis')
     parser.add_argument('--cleanup', dest='cleanup', help='flag to start with tabula rasa', action='store_true')
     args = parser.parse_args()
     main(args)
